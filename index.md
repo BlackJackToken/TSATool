@@ -33,9 +33,7 @@ pushed through the plastic, add one washer, the printed key, and then finally th
 
 This exploded render shows how each side is to be put together:
 
-<p align="center">
 ![Exploded View](/TSATool/images/exploded.gif?raw=true "Exploded View")
-</p>
 
 Once both sides have the washers and keys installed, you need to line them up and screw them together. I find this is
 easiest to do one side at a time, making sure to only insert the screw on the side you start with only a few turns so you'll

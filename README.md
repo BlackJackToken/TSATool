@@ -39,6 +39,18 @@ Once both sides have the washers and keys installed, you need to line them up an
 easiest to do one side at a time, making sure to only insert the screw on the side you start with only a few turns so you'll
 be able to rotate the sides around so the other screw lines up.
 
+Trenton Computer Festival
+========
+
+If you received a TSATool at the [2016 Trenton Computer Festival](http://tcf.pages.tcnj.edu/), then congratulations: you are
+officially an unpaid BETA tester! These are the very first TSATools ever assembled, and in fact, each one is slightly
+different as the design was going through some revisions at the time. Beyond the "TCF" branding, these versions of the
+TSATool are the same as the standard, and you can even mix and match the parts if you like.
+
+![First Generation](/images/first_gen.jpg?raw=true "First Generation")
+
+Any feedback on these first generation TSATools would be greatly appreciated.
+
 Project Lineage
 =========
 

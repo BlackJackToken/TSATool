@@ -1,6 +1,7 @@
-
 TSATool
 =========
+
+![Featured Image](/images/tsa_feat.jpg?raw=true "Featured Image")
 
 ### _"Don't Leave Home Without It"_
 
@@ -11,6 +12,8 @@ used in desktop 3D printers aren't strong enough to make functional keys out of.
 the user's pocket or tool bag is much more hazardous to the health of the keys than the actual turning of locks.
 
 With the TSATool, it's safe to just toss it into a bag and take with you anywhere.
+
+![Action Picture](/images/tsa_action.jpg?raw=true "Action Picture")
 
 Bill of Materials
 ========

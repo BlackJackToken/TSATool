@@ -4,15 +4,18 @@ layout: index
 
 ### _"Don't Leave Home Without It"_
 
-The TSATool was designed as a handy way to store and use 3D printed reproductions of the most common TSA master keys
-(currently TSA002 & TSA007). One of the biggest usability issues with 3D printed keys is how fragile they are, so the
-primary goal when designing the TSATool was making sure that the keys themselves wouldn't be bent or otherwise damaged in
-the user's pocket or tool bag.
+The TSATool was designed as a handy way to store and use 3D printed reproductions of the most common
+[Transportation Safety Administration (TSA) "master keys"](https://en.wikipedia.org/wiki/Travel_Sentry)
+(TSA002 & TSA007). One of the most common dismissals of the original printed keys I've seen is that the materials
+used in desktop 3D printers aren't strong enough to make functional keys out of. But it seems to me that the conditions in
+the user's pocket or tool bag is much more hazardous to the health of the keys than the actual turning of locks.
+
+With the TSATool, it's safe to just toss it into a bag and take with you anywhere.
 
 Bill of Materials
 ========
 
-Aside from the printed parts, assembling the TSATool requires the following:
+Aside from a print one each part, assembling the TSATool requires the following:
 
 * M4X15mm Cap Screws (x2)
 * M4 Washers (x8)
@@ -21,7 +24,7 @@ Aside from the printed parts, assembling the TSATool requires the following:
 All of these parts can be sourced from Home Depot for a grand total of about $4, and much cheaper if you're in a part of
 the world where metric hardware isn't considered an exotic delicacy.
 
-_Note:_ You can skip using the M4 washers if you print two copies of *"optional_spacer.stl"*, though the action is much
+**Note:** You can skip using the M4 washers if you print two copies of *"optional_spacer.stl"*, though the action is much
 smoother with the metal washers.
 
 Assembly
@@ -39,17 +42,31 @@ Once both sides have the washers and keys installed, you need to line them up an
 easiest to do one side at a time, making sure to only insert the screw on the side you start with only a few turns so you'll
 be able to rotate the sides around so the other screw lines up.
 
-Trenton Computer Festival
+**Note:** The idea isn't to crank the screws all the way down; you want it to be tight enough to keep tension on the keys, but
+loose enough that you can rotate them without risk of bending.
+
+TCF 2016
 ========
 
-If you received a TSATool at the [2016 Trenton Computer Festival](http://tcf.pages.tcnj.edu/), then congratulations: you are
-officially an unpaid BETA tester! These are the very first TSATools ever assembled, and in fact, each one is slightly
-different as the design was going through some revisions at the time. Beyond the "TCF" branding, these versions of the
-TSATool are the same as the standard, and you can even mix and match the parts if you like.
+If you received a TSATool at the [2016 Trenton Computer Festival](http://tcf.pages.tcnj.edu/), then congratulations: you're
+officially an unpaid BETA tester!
+
+These are the very first TSATools ever assembled, and in fact, each one is slightly different as the design was going through
+some revisions at the time. Beyond the "TCF" branding, these versions of the TSATool are the same as the standard, and you
+can even mix and match the parts if you like.
 
 ![First Generation](/images/first_gen.jpg?raw=true "First Generation")
 
 Any feedback on these first generation TSATools would be greatly appreciated.
+
+Future Updates
+========
+
+Right now only TSA002 and TSA007 are included, because those are the designs that appear to be the closest to 100% functional
+and they are (luckily enough) the most common locks currently in circulation. But as the other TSA key models are refined,
+and if they become more commonly used in the wild, I'll look at adding those to the TSATool.
+
+The next logical key to add would be TSA003, but I don't want to have an odd number of keys onboard...
 
 Project Lineage
 =========

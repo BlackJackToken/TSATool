@@ -1,24 +1,26 @@
 ---
 layout: index
 ---
+
 ![Featured Image](/images/tsa_feat.jpg?raw=true "Featured Image")
 
 ### _"Don't Leave Home Without It"_
 
 The TSATool was designed as a handy way to store and use 3D printed reproductions of the most common
 [Transportation Safety Administration (TSA) "master keys"](https://en.wikipedia.org/wiki/Travel_Sentry)
-(TSA002 & TSA007). One of the most common dismissals of the original printed keys I've seen is that the materials
-used in desktop 3D printers aren't strong enough to make functional keys out of. But it seems to me that the conditions in
-the user's pocket or tool bag is much more hazardous to the health of the keys than the actual turning of locks.
+(TSA002 & TSA007). One of the most common dismissals of the original printed keys is that the materials used in desktop 3D
+printers wouldn't be strong enough to make functional keys out of. I believe we've disproved that now, but it always seemed
+to me that the conditions in the user's pocket or tool bag were likely much more hazardous to the health of the keys than
+the actual turning of locks.
 
-With the TSATool, it's safe to just toss it into a bag and take with you anywhere.
+With the keys folded up into the frame of the TSATool, it's safe to just toss it into a bag and take with you anywhere.
 
 ![Action Picture](/images/tsa_action.jpg?raw=true "Action Picture")
 
 Bill of Materials
 ========
 
-Aside from a print one each part, assembling the TSATool requires the following:
+Aside from a print of each part, assembling the TSATool requires the following:
 
 * M4X15mm Cap Screws (x2)
 * M4 Washers (x8)
